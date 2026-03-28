@@ -1,1 +1,2 @@
 # xLSTM-Informercode
+This is the BO–STL–xLSTM–Informer version we proposed in the following paper: Parallel xLSTM-Informer model for long-term dissolved oxygen predicting using STL decomposition and Bayesian optimization. If the paper is published, a link will be provided later. py code contains various parts of the BO–STL–xLSTM–Informer model. Please refer to the introduction of the relevant paper for detailed information.https://github.com/bbbuffon/xLSTM-Informercode/
